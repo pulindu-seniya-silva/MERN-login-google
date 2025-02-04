@@ -1,4 +1,7 @@
 ![Screenshot Description](images/logIn.png)
+![Screenshot Description](images/account.png)
+![Screenshot Description](images/log-out.png)
+![Screenshot Description](images/db.png)
 
 
 ## Getting Started
