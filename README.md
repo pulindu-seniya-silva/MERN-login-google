@@ -1,13 +1,13 @@
-###login page with google
+## login page with google
 ![Screenshot Description](images/logIn.png)
 
-###select a account
+## select a account
 ![Screenshot Description](images/account.png)
 
-###log out page
+## log out page
 ![Screenshot Description](images/log-out.png)
 
-##database connection 
+## database connection 
 ![Screenshot Description](images/db.png)
 
 
