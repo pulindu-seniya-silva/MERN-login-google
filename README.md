@@ -1,4 +1,11 @@
+![Screenshot Description](images/logIn.png)
+
+
 ## Getting Started
+
+
+
+
 
 First, run the development server:
 
